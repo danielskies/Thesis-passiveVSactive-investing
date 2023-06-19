@@ -46,3 +46,9 @@ It is important to note that these findings are based on the specific time perio
 
 # Acknowledgements
 I would like to express my sincere gratitude to my thesis advisor and all the individuals who supported and inspired me throughout this research. Their guidance and contributions were invaluable in the successful completion of this project.
+
+# Contact
+LinkedIn:
+https://www.linkedin.com/in/daniel-kosten-b34a96170/
+
+
